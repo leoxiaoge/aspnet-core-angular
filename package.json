@@ -46,7 +46,7 @@
     "ngx-bootstrap": "^3.1.2",
     "ngx-image-cropper": "^1.2.2",
     "ngx-perfect-scrollbar": "^7.0.0",
-    "object-path": "^0.11.4",
+    "object-path": "^0.11.5",
     "primeicons": "^1.0.0",
     "primeng": "^6.1.6",
     "push.js": "^1.0.9",
